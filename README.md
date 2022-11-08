@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keyukemi
 - 👀 I’m interested in Fullstack Engineering
-- 🌱 I’m currently learning Nodejs. 
+- 🌱 I’m currently learning TypeScript and Next.js. 
 - 💞️ I’m looking to collaborate on creative engineering projects
 - 📫 You can reach me by sending me a message on twitter @keyukemiubi
 
