@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Keyukemi
+- 👋 Hi, I’m Keyukemi
 - 👀 I am a Fullstack Engineer
 - 💞️ I’m looking to collaborate on creative engineering projects
-- 📫 You can reach me by sending me a message on twitter @keyukemiubi
+- 📫 You can reach me by sending me a message on Twitter @keyukemiubi
 
 <!---
 Keyukemi/Keyukemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
